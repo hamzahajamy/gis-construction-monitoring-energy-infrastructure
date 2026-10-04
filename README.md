@@ -38,14 +38,14 @@ ArcGIS Online (hosting)
 ## Screenshots
 
 **Dashboard** — live KPIs, status/severity breakdowns, open-issue list, and the corridor map in one view.
-![Dashboard overview](screenshots/dashboard-overview.png)
+![Dashboard overview](dashboard-overview.png)
 
 **Web map** — the full pipeline corridor, sections colored by construction status.
-![Web map corridor view](screenshots/webmap-corridor.png)
+![Web map corridor view](webmap-corridor.png)
 
 **Field-reported issue** — a construction issue logged through the Field Maps form, including its attribute record and the attached field photo.
-![Issue detail popup](screenshots/issue-detail.png)
-![Issue photo attachment](screenshots/issue-photo-attachment.png)
+![Issue detail popup](issue-detail.png)
+![Issue photo attachment](issue-photo-attachment.png)
 
 ## Data model
 
