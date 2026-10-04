@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img"
+     aria-label="Data flows from ArcGIS Pro through AGOL hosted feature layers to three independent consumers: a read-only Dashboard, a round-trip Field Maps data-collection loop, and a scoped Python automation script that queries, updates, and hands off to a local log outside the ArcGIS Online platform." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjNjNiMjU4Zi0zYTA3LTQxZDItYjJhNi1kY2VkYWFiODBkOWUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAijmbKzqZf3MC8f+0F3HXYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0ODM1ODdhYi00MDE4LTQyNjktYmVmMC1jOGNmODJlYjBmYWFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoWeS1cgMqTucq29Ax33bymAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggKN1YTf48Laa1irjzZI9ra840sE8DsUc8iXV45yUF5iqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaD6ieDHbgJNBFg+OHgfwqWQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIGNq4D8wLXnqWxi1LtwzQxeKll+Z5JnDLQAaEomIZUGzZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQHjZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmM2M2IyNThmLTNhMDctNDFkMi1iMmE2LWRjZWRhYWI4MGQ5ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjg4ZmYxYzNkLWEzOTktNGUxYi04ZTFmLTRkMWU1NjcwYzUwZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAo3VhN/jwtprWKuPNkj2trzjSwTwOxRzyJdXjnJQXmKqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggcv3aboHnuch0m0p2knB5huKlmZ7FvHri2HZKzUvUSLiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggkUNB6V/h+0iASj6ZT/xVNyuzojyGSDrhSfIrMMGw8r50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKq7GKZL+/yCJLWiI0lcGYRQqBNEgdDqeVs2pRl1cefoISKjaWF18oVDY6C3nBYZzHdBhnukvdUq/lNZhkeJ5A8=</c2pa:manifest></metadata>
+  <title>GIS Construction Progress Monitoring — Architecture</title>
+  <desc>ArcGIS Pro publishes a geodatabase to AGOL hosted feature layers (Sections, Inspections, Issues, Contractors). Three consumers read from that hub: a Web Map feeding a Dashboard (read-only), Field Maps (round-trip: loads form schema, writes new records and photos), and a Python script using the ArcGIS API for Python (round-trip: queries for Critical and unnotified issues, marks them notified). The script's simulated alert output crosses the platform boundary to a local console and log file on the machine running it.</desc>
+
+  <style>
+    :root {
+      --ink: #1f2430;
+      --muted: #5b6472;
+      --line: #8a93a3;
+      --box-fill: #f5f7fa;
+      --box-stroke: #3b4452;
+      --accent: #2f6fed;
+      --accent-fill: #eaf1ff;
+      --bg: #ffffff;
+      --boundary: #9aa3b2;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --ink: #e7eaf0;
+        --muted: #aab2c0;
+        --line: #7b8494;
+        --box-fill: #232834;
+        --box-stroke: #c7cedb;
+        --accent: #7fa8ff;
+        --accent-fill: #1c2a44;
+        --bg: #14171f;
+        --boundary: #566072;
+      }
+    }
+    text { font-family: -apple-system, Segoe UI, Helvetica, Arial, sans-serif; fill: var(--ink); }
+    .box-label { font-size: 15px; font-weight: 700; }
+    .box-sub { font-size: 11.5px; fill: var(--muted); }
+    .arrow-label { font-size: 11.5px; fill: var(--muted); }
+    .boundary-label { font-size: 11px; fill: var(--muted); font-style: italic; }
+    .caption { font-size: 12.5px; fill: var(--muted); }
+    .heading { font-size: 18px; font-weight: 700; }
+  </style>
+
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="var(--line)"></path>
+    </marker>
+    <marker id="arrowAccent" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="var(--accent)"></path>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="800" fill="var(--bg)"></rect>
+
+  <text x="500" y="30" text-anchor="middle" class="heading">GIS Construction Progress Monitoring — Data Flow</text>
+
+  <!-- AGOL boundary -->
+  <rect x="25" y="50" width="950" height="566" rx="10" fill="none" stroke="var(--boundary)" stroke-width="1.5" stroke-dasharray="5 4"></rect>
+  <text x="40" y="68" class="boundary-label">ArcGIS Online organization — scoped, per-item access only</text>
+
+  <!-- ArcGIS Pro box -->
+  <rect x="370" y="80" width="260" height="66" rx="8" fill="var(--box-fill)" stroke="var(--box-stroke)" stroke-width="1.5"></rect>
+  <text x="500" y="106" text-anchor="middle" class="box-label">ArcGIS Pro (authoring)</text>
+  <text x="500" y="124" text-anchor="middle" class="box-sub">File geodatabase: domains,</text>
+  <text x="500" y="138" text-anchor="middle" class="box-sub">relationships, QC + Script Tool</text>
+
+  <line x1="500" y1="146" x2="500" y2="196" stroke="var(--line)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+  <text x="514" y="174" class="arrow-label">publish</text>
+
+  <!-- Hub -->
+  <rect x="230" y="196" width="540" height="130" rx="8" fill="var(--box-fill)" stroke="var(--box-stroke)" stroke-width="1.5"></rect>
+  <text x="500" y="218" text-anchor="middle" class="box-label">AGOL Hosted Feature Layers</text>
+
+  <rect x="252" y="236" width="110" height="52" rx="6" fill="var(--bg)" stroke="var(--line)" stroke-width="1"></rect>
+  <text x="307" y="266" text-anchor="middle" class="box-sub">Sections</text>
+
+  <rect x="378" y="236" width="110" height="52" rx="6" fill="var(--bg)" stroke="var(--line)" stroke-width="1"></rect>
+  <text x="433" y="266" text-anchor="middle" class="box-sub">Inspections</text>
+
+  <rect x="504" y="236" width="110" height="52" rx="6" fill="var(--bg)" stroke="var(--line)" stroke-width="1"></rect>
+  <text x="559" y="259" text-anchor="middle" class="box-sub">Issues</text>
+  <text x="559" y="273" text-anchor="middle" class="box-sub">(+ photos)</text>
+
+  <rect x="630" y="236" width="110" height="52" rx="6" fill="var(--bg)" stroke="var(--line)" stroke-width="1"></rect>
+  <text x="685" y="266" text-anchor="middle" class="box-sub">Contractors</text>
+
+  <!-- LEFT: Web Map -> Dashboard (read-only) -->
+  <path d="M230,261 L170,261 L170,440" fill="none" stroke="var(--line)" stroke-width="1.5" marker-end="url(#arrow)"></path>
+  <text x="162" y="375" text-anchor="end" class="arrow-label">render / query</text>
+  <text x="162" y="389" text-anchor="end" class="arrow-label">(read-only)</text>
+
+  <rect x="70" y="440" width="200" height="62" rx="8" fill="var(--box-fill)" stroke="var(--box-stroke)" stroke-width="1.5"></rect>
+  <text x="170" y="466" text-anchor="middle" class="box-label">Web Map</text>
+  <text x="170" y="484" text-anchor="middle" class="box-sub">symbology + pop-ups</text>
+
+  <line x1="170" y1="502" x2="170" y2="542" stroke="var(--line)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+  <text x="178" y="526" class="arrow-label">embeds</text>
+
+  <rect x="60" y="542" width="220" height="68" rx="8" fill="var(--box-fill)" stroke="var(--box-stroke)" stroke-width="1.5"></rect>
+  <text x="170" y="568" text-anchor="middle" class="box-label">Dashboard</text>
+  <text x="170" y="586" text-anchor="middle" class="box-sub">KPIs, charts,</text>
+  <text x="170" y="600" text-anchor="middle" class="box-sub">live issue list + map</text>
+
+  <!-- MIDDLE: Field Maps (round trip) -->
+  <line x1="485" y1="326" x2="485" y2="440" stroke="var(--line)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+  <line x1="515" y1="440" x2="515" y2="326" stroke="var(--line)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+  <text x="330" y="375" text-anchor="end" class="arrow-label">loads form schema →</text>
+  <text x="610" y="398" class="arrow-label">← new records + photos</text>
+
+  <rect x="400" y="440" width="200" height="62" rx="8" fill="var(--box-fill)" stroke="var(--box-stroke)" stroke-width="1.5"></rect>
+  <text x="500" y="466" text-anchor="middle" class="box-label">Field Maps</text>
+  <text x="500" y="484" text-anchor="middle" class="box-sub">mobile data collection</text>
+
+  <!-- RIGHT: Python automation (round trip, accent) + local hand-off -->
+  <path d="M770,261 L800,261 L800,440" fill="none" stroke="var(--accent)" stroke-width="1.5" marker-end="url(#arrowAccent)"></path>
+  <path d="M870,440 L870,221 L770,221" fill="none" stroke="var(--accent)" stroke-width="1.5" marker-end="url(#arrowAccent)"></path>
+  <text x="800" y="375" class="arrow-label">query: Critical &amp; unnotified</text>
+  <text x="800" y="398" class="arrow-label">mark Notification_Sent=Yes</text>
+
+  <rect x="730" y="440" width="210" height="70" rx="8" fill="var(--accent-fill)" stroke="var(--accent)" stroke-width="1.5"></rect>
+  <text x="835" y="462" text-anchor="middle" class="box-label">critical_alerts.py</text>
+  <text x="835" y="480" text-anchor="middle" class="box-sub">ArcGIS API for Python</text>
+  <text x="835" y="494" text-anchor="middle" class="box-sub">scoped OAuth app credential</text>
+
+  <line x1="835" y1="510" x2="835" y2="652" stroke="var(--accent)" stroke-width="1.5" marker-end="url(#arrowAccent)"></line>
+  <text x="845" y="580" class="arrow-label">simulated alert</text>
+
+  <!-- Local machine boundary -->
+  <rect x="705" y="632" width="260" height="100" rx="10" fill="none" stroke="var(--boundary)" stroke-width="1.5" stroke-dasharray="5 4"></rect>
+  <text x="720" y="650" class="boundary-label">Local machine (script host)</text>
+
+  <rect x="725" y="652" width="220" height="66" rx="8" fill="var(--box-fill)" stroke="var(--accent)" stroke-width="1.5"></rect>
+  <text x="835" y="676" text-anchor="middle" class="box-label">Console + alerts_log.txt</text>
+  <text x="835" y="694" text-anchor="middle" class="box-sub">off-platform — real email/SMS</text>
+  <text x="835" y="708" text-anchor="middle" class="box-sub">is a drop-in swap here</text>
+
+  <text x="500" y="762" text-anchor="middle" class="caption">One hub, three independent consumers: Dashboard reads only; Field Maps and the Python script both read from and write back to the hosted layers.</text>
+</svg>

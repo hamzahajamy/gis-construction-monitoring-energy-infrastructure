@@ -1,0 +1,6 @@
+Contractor_ID,Contractor_Name,Contract_Scope,Contact_Person,Phone,Email,Contract_Start,Contract_End
+CTR-01,Tiefbau Nord GmbH,"Open-cut trenching, sections 1-8",S. Brandt,+49 511 5551001,brandt@tiefbaunord.example,2026-02-01,2026-11-30
+CTR-02,PipelineTech Solutions AG,HDD crossings and specialist works,J. Wagner,+49 511 5551002,wagner@pipelinetech.example,2026-02-15,2026-12-15
+CTR-03,Erdbau & Kabel AG,"Open-cut trenching, sections 9-16",M. Keller,+49 511 5551003,keller@erdbaukabel.example,2026-03-01,2026-12-01
+CTR-04,Rohrleitungsbau Meyer GmbH,"Open-cut trenching, sections 17-25",A. Meyer,+49 511 5551004,meyer@rlb-meyer.example,2026-03-15,2027-01-15
+CTR-05,InfraGrund Bau GmbH,Access roads and site restoration,T. Hoffmann,+49 511 5551005,hoffmann@infragrund.example,2026-02-01,2027-02-01
